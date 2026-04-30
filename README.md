@@ -1,5 +1,4 @@
-# VIGENERE-CIPHER
-## EX. NO: 4
+# EX.NO: 4 VIGENERE-CIPHER
 ### Name: SUJITH
 ### Reg. no: 212224103003
 ### Date: 30.04.2026
